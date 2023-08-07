@@ -10,7 +10,7 @@
     A Family-Tree app letting users to define a family tree.
     <br />
     <br />
-    <a target="_blank" href="https://family-tree-pd8c.onrender.com/" >Live Preview</a>
+    <a target="_blank" href="https://family-tree-tkv2.onrender.com" >Live Preview</a>
   </p>
 </div>
 
@@ -207,3 +207,4 @@ These are some useful libraries and resources used in project.
 There are more important tools which can been seen in project code itself.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+# Family-Tree
